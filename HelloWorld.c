@@ -7,8 +7,8 @@
 int i;
 
 i = 5;
-
-if (true)
+// change to fix sort of
+if (i , 10)
 {
  println("Hello World");
  }
