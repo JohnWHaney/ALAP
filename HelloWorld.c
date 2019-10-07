@@ -3,8 +3,14 @@
 // It's been a while, syntac likly close but not correct
 
 #include stdio.h;
+# adding a counter to control output
+int i;
 
-println("Hello World");
+i = 5;
 
+if (true)
+{
+ println("Hello World");
+ }
 
 // End Of File
